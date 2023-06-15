@@ -25,6 +25,50 @@ This project leverages multiple technologies:
 
 These were utilized to manage and process data, design and train the MLP, simulate the Markov models, and perform final analyses.
 
+## 📝 Final Report 
+
+The final report of this project is written in LaTeX, a high-quality typesetting system, and is compiled into a PDF file (`FinalPaper.pdf`). The LaTeX source code for the report is available in the file `FinalPaper.tex`.
+
+The report includes all the necessary details of the project, from the introduction and aim to the methodologies and final evaluations. It also contains several visual aids like charts, diagrams, and tables to help readers understand the project better.
+
+The LaTeX report utilizes the following additional files:
+- `bibliography.bib`: Bibliographic data in BibTeX format. This file contains all the references cited in the report.
+- Various other files (`FinalPaper.aux`, `FinalPaper.bbl`, `FinalPaper.blg`, `FinalPaper.lof`, `FinalPaper.log`, `FinalPaper.lot`, `FinalPaper.out`, `FinalPaper.synctex.gz`, `FinalPaper.toc`): These are auxiliary files generated during the LaTeX compiling process. They include information about figure captions, bibliographic references, section headings, and more, which are used to cross-reference within the document.
+
+You'll need a LaTeX distribution (like TexLive, MikTex, or MacTex) and a LaTeX editor (like Overleaf, Texmaker, or TeXstudio) to edit and compile the LaTeX file. To recompile the report after making changes, use the command `pdflatex FinalPaper.tex` in your terminal (from the directory containing the file).
+
+## 📂 Project Structure
+
+This project has the following file structure:
+
+├── bibliography.bib
+├── FinalPaper.aux
+├── FinalPaper.bbl
+├── FinalPaper.blg
+├── FinalPaper.lof
+├── FinalPaper.log
+├── FinalPaper.lot
+├── FinalPaper.out
+├── FinalPaper.pdf
+├── FinalPaper.synctex.gz
+├── FinalPaper.tex
+├── FinalPaper.toc
+├── texput.log
+│
+├── Codes
+│ ├── DataPreparatorA.m
+│ └── Data_ANN_2021_cw.xlsx
+│
+└── Images
+├── Various images (.jpg, .png)
+├── Fotos
+│ └── Presentation slides (.PNG)
+└── Photos
+└── Various images (.JPG, .jpg)
+
+- **Codes**: This directory contains the Matlab code files and data for the project.
+- **Images**: This directory contains images used in the project. It includes two subdirectories, "Fotos" and "Photos", which contain presentation slides and various other images respectively.
+
 ## :mortar_board: Credits
 
 This project was accomplished as part of the "Artificial Neural Networks 214350" class instructed by Prof. Dr.-Ing. W. Kaestner. The course equipped me with the essential knowledge and tools to undertake this project, paving the way for an exploration into the predictive maintenance domain.
