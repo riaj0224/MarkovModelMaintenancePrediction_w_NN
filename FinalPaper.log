@@ -1,0 +1,1177 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.28)  31 JAN 2022 09:45
+entering extended mode
+**./FinalPaper.tex
+(FinalPaper.tex
+LaTeX2e <2021-11-15>
+L3 programming layer <2021-11-22>
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/11/08 3.66 The Babel package
+\babel@savecnt=\count191
+\U@D=\dimen139
+\l@unhyphenated=\language79
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count192
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box50
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen140
+\ttl@minus=\dimen141
+\ttl@toksa=\toks18
+\titlewidth=\dimen142
+\titlewidthlast=\dimen143
+\titlewidthfirst=\dimen144
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/hanging\hanging.sty
+Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
+\h@ngcommawd=\skip51
+\h@ngfstopwd=\skip52
+\h@ngquotewd=\skip53
+\h@ngdquotewd=\skip54
+\h@ngquerywd=\skip55
+\h@ngexclwd=\skip56
+\h@ngcolonwd=\skip57
+\h@ngscolonwd=\skip58
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count193
+\float@exts=\toks19
+\float@box=\box51
+\@float@everytoks=\toks20
+\@floatcapt=\box52
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip59
+\multirow@cntb=\count194
+\multirow@dima=\skip60
+\bigstrutjot=\dimen145
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup4
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+\captionmargin=\dimen146
+\captionmargin@=\dimen147
+\captionwidth=\dimen148
+\caption@tempdima=\dimen149
+\caption@indent=\dimen150
+\caption@parindent=\dimen151
+\caption@hangindent=\dimen152
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count195
+\c@continuedfloat=\count196
+Package caption Info: float package is loaded.
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.st
+y
+Package: tocbasic 2021/11/13 v3.35 KOMA-Script package (handling toc-files)
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
+y
+Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
+ok.sty
+Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+)
+\scr@dte@tocline@numberwidth=\skip61
+\scr@dte@tocline@numbox=\box53
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count197
+\c@@ppsavesec=\count198
+\c@@ppsaveapp=\count199
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+) (C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen153
+\ar@mcellbox=\box54
+\extrarowheight=\dimen154
+\NC@list=\toks22
+\extratabsurround=\skip62
+\backup@length=\skip63
+\ar@cellbox=\box55
+)
+\everycr=\toks23
+\minrowclearance=\skip64
+)
+\rownum=\count266
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip65
+\LTright=\skip66
+\LTpre=\skip67
+\LTpost=\skip68
+\LTchunksize=\count267
+\LTcapwidth=\dimen155
+\LT@head=\box56
+\LT@firsthead=\box57
+\LT@foot=\box58
+\LT@lastfoot=\box59
+\LT@gbox=\box60
+\LT@cols=\count268
+\LT@rows=\count269
+\c@LT@tables=\count270
+\c@LT@chunks=\count271
+\LT@p@ftn=\toks24
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count272
+\lst@gtempboxa=\box61
+\lst@token=\toks25
+\lst@length=\count273
+\lst@currlwidth=\dimen156
+\lst@column=\count274
+\lst@pos=\count275
+\lst@lostspace=\dimen157
+\lst@width=\dimen158
+\lst@newlines=\count276
+\lst@lineno=\count277
+\lst@maxwidth=\dimen159
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count278
+\lst@skipnumbers=\count279
+\lst@framebox=\box62
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip69
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks26
+\ex@=\dimen160
+))
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen161
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count280
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count281
+\leftroot@=\count282
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count283
+\DOTSCASE@=\count284
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box63
+\strutbox@=\box64
+\big@size=\dimen162
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count285
+\c@MaxMatrixCols=\count286
+\dotsspace@=\muskip16
+\c@parentequation=\count287
+\dspbrk@lvl=\count288
+\tag@help=\toks27
+\row@=\count289
+\column@=\count290
+\maxfields@=\count291
+\andhelp@=\toks28
+\eqnshift@=\dimen163
+\alignsep@=\dimen164
+\tagshift@=\dimen165
+\tagwidth@=\dimen166
+\totwidth@=\dimen167
+\lineht@=\dimen168
+\@envbody=\toks29
+\multlinegap=\skip70
+\multlinetaggap=\skip71
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+\scr@dte@section@maxnumwidth=\skip72
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
+)
+\XKV@depth=\count292
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen169
+\Gin@req@width=\dimen170
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box65
+)
+\tc@llx=\dimen171
+\tc@lly=\dimen172
+\tc@urx=\dimen173
+\tc@ury=\dimen174
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen175
+\adjbox@Height=\dimen176
+\adjbox@Depth=\dimen177
+\adjbox@Totalheight=\dimen178
+\adjbox@pwidth=\dimen179
+\adjbox@pheight=\dimen180
+\adjbox@pdepth=\dimen181
+\adjbox@ptotalheight=\dimen182
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count293
+) (C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box66
+\sift@deathcycles=\count294
+\@vwid@loff=\dimen183
+\@vwid@roff=\dimen184
+))
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen185
+\Hy@linkcounter=\count295
+\Hy@pagecounter=\count296
+ (C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
+atches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count297
+ (C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count298
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen186
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count299
+\Field@Width=\dimen187
+\Fld@charsize=\dimen188
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count300
+\c@Item=\count301
+\c@Hfootnote=\count302
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count303
+\c@bookmark@seq@number=\count304
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip73
+)
+Package hyperref Info: Option `colorlinks' set `false' on input line 30.
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count305
+\Gm@cntv=\count306
+\c@Gm@tempcnt=\count307
+\Gm@bindingoffset=\dimen189
+\Gm@wd@mp=\dimen190
+\Gm@odd@mp=\dimen191
+\Gm@even@mp=\dimen192
+\Gm@layoutwidth=\dimen193
+\Gm@layoutheight=\dimen194
+\Gm@layouthoffset=\dimen195
+\Gm@layoutvoffset=\dimen196
+\Gm@dimlist=\toks33
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+\c@subsubsubsection=\count308
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count309
+\l__pdf_internal_box=\box67
+) (FinalPaper.aux)
+\openout1 = `FinalPaper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count310
+\scratchdimen=\dimen197
+\scratchbox=\box68
+\nofMPsegments=\count311
+\nofMParguments=\count312
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count313
+\MPscratchDim=\dimen198
+\MPnumerator=\count314
+\makeMPintoPDFobject=\count315
+\everyMPtoPDFconversion=\toks35
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count316
+Package hyperref Info: Link coloring OFF on input line 83.
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count317
+)
+LaTeX Info: Redefining \ref on input line 83.
+LaTeX Info: Redefining \pageref on input line 83.
+LaTeX Info: Redefining \nameref on input line 83.
+ (FinalPaper.out) (FinalPaper.out)
+\@outlinefile=\write3
+\openout3 = `FinalPaper.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1
+
+{C:/Users/jair2/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [1] [2]
+(FinalPaper.toc
+Package tocbasic Info: Using my definition of `\numberline' on input line 2.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 3.
+
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+Package tocbasic Info: Using my definition of `\numberline' on input line 12.
+Package tocbasic Info: Using my definition of `\numberline' on input line 34.
+
+[3]
+Package tocbasic Info: Using my definition of `\numberline' on input line 39.
+Package tocbasic Info: Using my definition of `\numberline' on input line 44.
+Package tocbasic Info: Using my definition of `\numberline' on input line 48.
+Package tocbasic Info: Using my definition of `\numberline' on input line 51.
+Package tocbasic Info: Using my definition of `\numberline' on input line 57.
+Package tocbasic Info: Using my definition of `\numberline' on input line 62.
+Package tocbasic Info: Using my definition of `\numberline' on input line 66.
+Package tocbasic Info: Using my definition of `\numberline' on input line 67.
+Package tocbasic Info: Using my definition of `\numberline' on input line 68.
+Package tocbasic Info: Using my definition of `\numberline' on input line 70.
+Package tocbasic Info: Using my definition of `\numberline' on input line 73.
+Package tocbasic Info: Using my definition of `\numberline' on input line 75.
+)
+\tf@toc=\write4
+\openout4 = `FinalPaper.toc'.
+
+ [4] (FinalPaper.lot)
+\tf@lot=\write5
+\openout5 = `FinalPaper.lot'.
+
+ (FinalPaper.lof [5])
+\tf@lof=\write6
+\openout6 = `FinalPaper.lof'.
+
+ [6] [1] [2]
+<Images/Partes_del_sistema.JPG, id=575, 476.982pt x 261.97874pt>
+File: Images/Partes_del_sistema.JPG Graphic file (type jpg)
+<use Images/Partes_del_sistema.JPG>
+Package pdftex.def Info: Images/Partes_del_sistema.JPG  used on input line 249.
+
+(pdftex.def)             Requested size: 375.80544pt x 206.41328pt.
+ [3 <./Images/Partes_del_sistema.JPG>] [4]
+<Images/ModelOfBehavior.JPG, id=599, 392.667pt x 168.63pt>
+File: Images/ModelOfBehavior.JPG Graphic file (type jpg)
+<use Images/ModelOfBehavior.JPG>
+Package pdftex.def Info: Images/ModelOfBehavior.JPG  used on input line 292.
+(pdftex.def)             Requested size: 375.80544pt x 161.39148pt.
+<Images/SystemModel.JPG, id=605, 419.166pt x 157.18726pt>
+File: Images/SystemModel.JPG Graphic file (type jpg)
+<use Images/SystemModel.JPG>
+Package pdftex.def Info: Images/SystemModel.JPG  used on input line 305.
+(pdftex.def)             Requested size: 375.80544pt x 140.92995pt.
+ [5 <./Images/ModelOfBehavior.JPG>] [6 <./Images/SystemModel.JPG>]
+<Images/ArtificialNeuron.JPG, id=626, 373.395pt x 199.947pt>
+File: Images/ArtificialNeuron.JPG Graphic file (type jpg)
+<use Images/ArtificialNeuron.JPG>
+Package pdftex.def Info: Images/ArtificialNeuron.JPG  used on input line 329.
+(pdftex.def)             Requested size: 211.38832pt x 113.19603pt.
+<Images/ArtificialNeuronProcess.JPG, id=631, 377.61075pt x 263.18324pt>
+File: Images/ArtificialNeuronProcess.JPG Graphic file (type jpg)
+<use Images/ArtificialNeuronProcess.JPG>
+Package pdftex.def Info: Images/ArtificialNeuronProcess.JPG  used on input line
+ 338.
+(pdftex.def)             Requested size: 211.38832pt x 147.3294pt.
+ [7 <./Images/ArtificialNeuron.JPG> <./Images/ArtificialNeuronProcess.JPG>]
+<Images/FeedForward.JPG, id=643, 280.6485pt x 204.765pt>
+File: Images/FeedForward.JPG Graphic file (type jpg)
+<use Images/FeedForward.JPG>
+Package pdftex.def Info: Images/FeedForward.JPG  used on input line 349.
+(pdftex.def)             Requested size: 164.41711pt x 119.96356pt.
+<Images/Lateral.JPG, id=646, 269.808pt x 201.75375pt>
+File: Images/Lateral.JPG Graphic file (type jpg)
+<use Images/Lateral.JPG>
+Package pdftex.def Info: Images/Lateral.JPG  used on input line 356.
+(pdftex.def)             Requested size: 164.41711pt x 122.94954pt.
+<Images/Recurrent.JPG, id=649, 266.1945pt x 210.7875pt>
+File: Images/Recurrent.JPG Graphic file (type jpg)
+<use Images/Recurrent.JPG>
+Package pdftex.def Info: Images/Recurrent.JPG  used on input line 363.
+(pdftex.def)             Requested size: 164.41711pt x 130.1948pt.
+ [8 <./Images/FeedForward.JPG> <./Images/Lateral.JPG> <./Images/Recurrent.JPG>]
+<Images/BinaryModelSystemState.JPG, id=667, 317.38576pt x 166.82326pt>
+File: Images/BinaryModelSystemState.JPG Graphic file (type jpg)
+<use Images/BinaryModelSystemState.JPG>
+Package pdftex.def Info: Images/BinaryModelSystemState.JPG  used on input line 
+381.
+(pdftex.def)             Requested size: 187.89914pt x 98.76596pt.
+ [9 <./Images/BinaryModelSystemState.JPG>]
+<Images/BathCurve.JPG, id=676, 475.7775pt x 230.66174pt>
+File: Images/BathCurve.JPG Graphic file (type jpg)
+<use Images/BathCurve.JPG>
+Package pdftex.def Info: Images/BathCurve.JPG  used on input line 394.
+(pdftex.def)             Requested size: 281.85587pt x 136.65237pt.
+ [10 <./Images/BathCurve.JPG>]
+<Images/FailurevSurvival.JPG, id=693, 625.1355pt x 328.22626pt>
+File: Images/FailurevSurvival.JPG Graphic file (type jpg)
+<use Images/FailurevSurvival.JPG>
+Package pdftex.def Info: Images/FailurevSurvival.JPG  used on input line 428.
+(pdftex.def)             Requested size: 281.85587pt x 147.98592pt.
+<Images/SingleComponent.JPG, id=698, 134.30174pt x 95.1555pt>
+File: Images/SingleComponent.JPG Graphic file (type jpg)
+<use Images/SingleComponent.JPG>
+Package pdftex.def Info: Images/SingleComponent.JPG  used on input line 440.
+(pdftex.def)             Requested size: 140.92793pt x 99.85231pt.
+<Images/TwoComponents.JPG, id=701, 272.217pt x 148.1535pt>
+File: Images/TwoComponents.JPG Graphic file (type jpg)
+<use Images/TwoComponents.JPG>
+Package pdftex.def Info: Images/TwoComponents.JPG  used on input line 449.
+(pdftex.def)             Requested size: 234.8775pt x 127.83678pt.
+
+[11 <./Images/FailurevSurvival.JPG> <./Images/SingleComponent.JPG>] [12 <./Imag
+es/TwoComponents.JPG>]
+<Images/Markov.JPG, id=730, 482.40225pt x 284.86424pt>
+File: Images/Markov.JPG Graphic file (type jpg)
+<use Images/Markov.JPG>
+Package pdftex.def Info: Images/Markov.JPG  used on input line 496.
+(pdftex.def)             Requested size: 281.85587pt x 166.44713pt.
+ [13 <./Images/Markov.JPG>]
+<Images/RawData2.JPG, id=741, 762.85pt x 578.16pt>
+File: Images/RawData2.JPG Graphic file (type jpg)
+<use Images/RawData2.JPG>
+Package pdftex.def Info: Images/RawData2.JPG  used on input line 528.
+(pdftex.def)             Requested size: 234.8775pt x 178.0103pt.
+<Images/RawData1.JPG, id=742, 762.85pt x 572.1375pt>
+File: Images/RawData1.JPG Graphic file (type jpg)
+<use Images/RawData1.JPG>
+Package pdftex.def Info: Images/RawData1.JPG  used on input line 535.
+(pdftex.def)             Requested size: 234.8775pt x 176.15604pt.
+ [14 <./Images/RawData2.JPG>]
+<Images/FirstFilter1.JPG, id=748, 755.82375pt x 572.1375pt>
+File: Images/FirstFilter1.JPG Graphic file (type jpg)
+<use Images/FirstFilter1.JPG>
+Package pdftex.def Info: Images/FirstFilter1.JPG  used on input line 547.
+(pdftex.def)             Requested size: 234.8775pt x 177.79729pt.
+
+[15 <./Images/RawData1.JPG> <./Images/FirstFilter1.JPG>]
+<Images/ProcessedData2.JPG, id=756, 755.82375pt x 578.16pt>
+File: Images/ProcessedData2.JPG Graphic file (type jpg)
+<use Images/ProcessedData2.JPG>
+Package pdftex.def Info: Images/ProcessedData2.JPG  used on input line 566.
+(pdftex.def)             Requested size: 234.8775pt x 179.66884pt.
+<Images/ProcessedData1.JPG, id=757, 755.82375pt x 572.1375pt>
+File: Images/ProcessedData1.JPG Graphic file (type jpg)
+<use Images/ProcessedData1.JPG>
+Package pdftex.def Info: Images/ProcessedData1.JPG  used on input line 573.
+(pdftex.def)             Requested size: 234.8775pt x 177.79729pt.
+ [16 <./Images/ProcessedData2.JPG>] [17 <./Images/ProcessedData1.JPG>] [18] [19
+] [20] [21]
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 7
+55.
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/bx/n' in size <10> not available
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 755.
+
+[22]
+<Images/Photos/GraphWP.JPG, id=791, 657.05475pt x 421.575pt>
+File: Images/Photos/GraphWP.JPG Graphic file (type jpg)
+<use Images/Photos/GraphWP.JPG>
+Package pdftex.def Info: Images/Photos/GraphWP.JPG  used on input line 798.
+(pdftex.def)             Requested size: 375.80544pt x 241.12363pt.
+ [23] [24 <./Images/Photos/GraphWP.JPG>]
+<Images/Photos/ErrorWP.JPG, id=804, 1263.97218pt x 696.35156pt>
+File: Images/Photos/ErrorWP.JPG Graphic file (type jpg)
+<use Images/Photos/ErrorWP.JPG>
+Package pdftex.def Info: Images/Photos/ErrorWP.JPG  used on input line 829.
+(pdftex.def)             Requested size: 375.80544pt x 207.03699pt.
+<Images/Fotos/Diapositiva5.PNG, id=805, 963.6pt x 542.025pt>
+File: Images/Fotos/Diapositiva5.PNG Graphic file (type png)
+<use Images/Fotos/Diapositiva5.PNG>
+Package pdftex.def Info: Images/Fotos/Diapositiva5.PNG  used on input line 836.
+
+(pdftex.def)             Requested size: 375.80544pt x 211.38889pt.
+<Images/Fotos/Diapositiva6.PNG, id=806, 963.6pt x 542.025pt>
+File: Images/Fotos/Diapositiva6.PNG Graphic file (type png)
+<use Images/Fotos/Diapositiva6.PNG>
+Package pdftex.def Info: Images/Fotos/Diapositiva6.PNG  used on input line 843.
+
+(pdftex.def)             Requested size: 469.75502pt x 264.23819pt.
+ [25 <./Images/Photos/ErrorWP.JPG> <./Images/Fotos/Diapositiva5.PNG>]
+<Images/Photos/WeightsValuesWP.JPG, id=811, 513.41812pt x 217.5628pt>
+File: Images/Photos/WeightsValuesWP.JPG Graphic file (type jpg)
+<use Images/Photos/WeightsValuesWP.JPG>
+Package pdftex.def Info: Images/Photos/WeightsValuesWP.JPG  used on input line 
+852.
+(pdftex.def)             Requested size: 375.80544pt x 159.25108pt.
+ [26 <./Images/Fotos/Diapositiva6.PNG> <./Images/Photos/WeightsValuesWP.JPG>]
+<Images/Photos/GraphOP.JPG, id=816, 621.522pt x 239.09325pt>
+File: Images/Photos/GraphOP.JPG Graphic file (type jpg)
+<use Images/Photos/GraphOP.JPG>
+Package pdftex.def Info: Images/Photos/GraphOP.JPG  used on input line 883.
+(pdftex.def)             Requested size: 375.80544pt x 144.56976pt.
+<Images/Photos/ErrorOP.JPG, id=819, 1264.725pt x 695.59875pt>
+File: Images/Photos/ErrorOP.JPG Graphic file (type jpg)
+<use Images/Photos/ErrorOP.JPG>
+Package pdftex.def Info: Images/Photos/ErrorOP.JPG  used on input line 913.
+(pdftex.def)             Requested size: 469.75502pt x 258.36522pt.
+ [27 <./Images/Photos/GraphOP.JPG>]
+<Images/Fotos/Diapositiva8.PNG, id=824, 963.6pt x 542.025pt>
+File: Images/Fotos/Diapositiva8.PNG Graphic file (type png)
+<use Images/Fotos/Diapositiva8.PNG>
+Package pdftex.def Info: Images/Fotos/Diapositiva8.PNG  used on input line 920.
+
+(pdftex.def)             Requested size: 469.75502pt x 264.23819pt.
+<Images/Fotos/Diapositiva10.PNG, id=825, 963.6pt x 542.025pt>
+File: Images/Fotos/Diapositiva10.PNG Graphic file (type png)
+<use Images/Fotos/Diapositiva10.PNG>
+Package pdftex.def Info: Images/Fotos/Diapositiva10.PNG  used on input line 927
+.
+(pdftex.def)             Requested size: 446.26582pt x 251.02173pt.
+ [28 <./Images/Photos/ErrorOP.JPG> <./Images/Fotos/Diapositiva8.PNG>]
+<Images/Photos/ErrorOP2.JPG, id=831, 1260.96094pt x 694.09312pt>
+File: Images/Photos/ErrorOP2.JPG Graphic file (type jpg)
+<use Images/Photos/ErrorOP2.JPG>
+Package pdftex.def Info: Images/Photos/ErrorOP2.JPG  used on input line 936.
+(pdftex.def)             Requested size: 375.80544pt x 206.8633pt.
+<Images/Fotos/Diapositiva12.PNG, id=832, 963.6pt x 542.025pt>
+File: Images/Fotos/Diapositiva12.PNG Graphic file (type png)
+<use Images/Fotos/Diapositiva12.PNG>
+Package pdftex.def Info: Images/Fotos/Diapositiva12.PNG  used on input line 943
+.
+(pdftex.def)             Requested size: 422.77664pt x 237.80527pt.
+ [29 <./Images/Fotos/Diapositiva10.PNG> <./Images/Photos/ErrorOP2.JPG>] [30 <./
+Images/Fotos/Diapositiva12.PNG>] [31]
+<Images/MarkovDiagram.JPG, id=852, 305.34074pt x 156.585pt>
+File: Images/MarkovDiagram.JPG Graphic file (type jpg)
+<use Images/MarkovDiagram.JPG>
+Package pdftex.def Info: Images/MarkovDiagram.JPG  used on input line 999.
+(pdftex.def)             Requested size: 234.8775pt x 120.45374pt.
+ [32 <./Images/MarkovDiagram.JPG>]
+
+LaTeX Warning: Command \o invalid in math mode on input line 1056.
+
+
+LaTeX Warning: Command \o invalid in math mode on input line 1063.
+
+[33]
+<Images/ConnectionsIdeal.JPG, id=865, 603.4545pt x 244.5135pt>
+File: Images/ConnectionsIdeal.JPG Graphic file (type jpg)
+<use Images/ConnectionsIdeal.JPG>
+Package pdftex.def Info: Images/ConnectionsIdeal.JPG  used on input line 1080.
+(pdftex.def)             Requested size: 375.80544pt x 152.27583pt.
+<Images/TimeLifeIdeal.JPG, id=867, 1108.14pt x 466.74374pt>
+File: Images/TimeLifeIdeal.JPG Graphic file (type jpg)
+<use Images/TimeLifeIdeal.JPG>
+Package pdftex.def Info: Images/TimeLifeIdeal.JPG  used on input line 1089.
+(pdftex.def)             Requested size: 446.26582pt x 187.96188pt.
+ [34 <./Images/ConnectionsIdeal.JPG>]
+<Images/StatesIdeal.JPG, id=873, 1096.095pt x 461.92575pt>
+File: Images/StatesIdeal.JPG Graphic file (type jpg)
+<use Images/StatesIdeal.JPG>
+Package pdftex.def Info: Images/StatesIdeal.JPG  used on input line 1098.
+(pdftex.def)             Requested size: 446.26582pt x 188.07272pt.
+<Images/FSIdIn.JPG, id=875, 1106.33325pt x 475.7775pt>
+File: Images/FSIdIn.JPG Graphic file (type jpg)
+<use Images/FSIdIn.JPG>
+Package pdftex.def Info: Images/FSIdIn.JPG  used on input line 1107.
+(pdftex.def)             Requested size: 446.26582pt x 191.91203pt.
+ [35 <./Images/TimeLifeIdeal.JPG> <./Images/StatesIdeal.JPG>]
+<Images/FSIdTL.JPG, id=880, 1108.74225pt x 478.78876pt>
+File: Images/FSIdTL.JPG Graphic file (type jpg)
+<use Images/FSIdTL.JPG>
+Package pdftex.def Info: Images/FSIdTL.JPG  used on input line 1114.
+(pdftex.def)             Requested size: 446.26582pt x 192.71024pt.
+ [36 <./Images/FSIdIn.JPG> <./Images/FSIdTL.JPG>]
+[37]
+<Images/InputGraph.JPG, id=896, 1088.868pt x 464.937pt>
+File: Images/InputGraph.JPG Graphic file (type jpg)
+<use Images/InputGraph.JPG>
+Package pdftex.def Info: Images/InputGraph.JPG  used on input line 1178.
+(pdftex.def)             Requested size: 469.75502pt x 200.57878pt.
+<Images/InputTable.JPG, id=897, 461.3235pt x 224.63925pt>
+File: Images/InputTable.JPG Graphic file (type jpg)
+<use Images/InputTable.JPG>
+Package pdftex.def Info: Images/InputTable.JPG  used on input line 1185.
+(pdftex.def)             Requested size: 328.82707pt x 160.12224pt.
+ [38 <./Images/InputGraph.JPG>]
+<Images/SimulationEquation.JPG, id=904, 352.9185pt x 398.6895pt>
+File: Images/SimulationEquation.JPG Graphic file (type jpg)
+<use Images/SimulationEquation.JPG>
+Package pdftex.def Info: Images/SimulationEquation.JPG  used on input line 1199
+.
+(pdftex.def)             Requested size: 187.89914pt x 212.2717pt.
+<Images/SimulationModel.JPG, id=907, 579.3645pt x 244.5135pt>
+File: Images/SimulationModel.JPG Graphic file (type jpg)
+<use Images/SimulationModel.JPG>
+Package pdftex.def Info: Images/SimulationModel.JPG  used on input line 1208.
+(pdftex.def)             Requested size: 328.82707pt x 138.78091pt.
+ [39 <./Images/InputTable.JPG> <./Images/SimulationEquation.JPG>]
+<Images/ClassicalModel.JPG, id=912, 584.78474pt x 251.13824pt>
+File: Images/ClassicalModel.JPG Graphic file (type jpg)
+<use Images/ClassicalModel.JPG>
+Package pdftex.def Info: Images/ClassicalModel.JPG  used on input line 1223.
+(pdftex.def)             Requested size: 422.77664pt x 181.56282pt.
+<Images/HybridModel.JPG, id=913, 879.285pt x 395.67825pt>
+File: Images/HybridModel.JPG Graphic file (type jpg)
+<use Images/HybridModel.JPG>
+Package pdftex.def Info: Images/HybridModel.JPG  used on input line 1236.
+(pdftex.def)             Requested size: 422.77664pt x 190.24942pt.
+ [40 <./Images/SimulationModel.JPG> <./Images/ClassicalModel.JPG>] [41 <./Image
+s/HybridModel.JPG>]
+<Images/MLPOutput.JPG, id=923, 1090.67474pt x 461.92575pt>
+File: Images/MLPOutput.JPG Graphic file (type jpg)
+<use Images/MLPOutput.JPG>
+Package pdftex.def Info: Images/MLPOutput.JPG  used on input line 1263.
+(pdftex.def)             Requested size: 469.75502pt x 198.94843pt.
+<Images/LambdaCalculation.JPG, id=925, 1094.28825pt x 458.9145pt>
+File: Images/LambdaCalculation.JPG Graphic file (type jpg)
+<use Images/LambdaCalculation.JPG>
+Package pdftex.def Info: Images/LambdaCalculation.JPG  used on input line 1272.
+
+(pdftex.def)             Requested size: 469.75502pt x 197.00027pt.
+ [42 <./Images/MLPOutput.JPG>]
+File: Images/StatesIdeal.JPG Graphic file (type jpg)
+<use Images/StatesIdeal.JPG>
+Package pdftex.def Info: Images/StatesIdeal.JPG  used on input line 1289.
+(pdftex.def)             Requested size: 352.31625pt x 148.47476pt.
+File: Images/TimeLifeIdeal.JPG Graphic file (type jpg)
+<use Images/TimeLifeIdeal.JPG>
+Package pdftex.def Info: Images/TimeLifeIdeal.JPG  used on input line 1296.
+(pdftex.def)             Requested size: 352.31625pt x 148.39246pt.
+ [43 <./Images/LambdaCalculation.JPG>]
+File: Images/FSIdIn.JPG Graphic file (type jpg)
+<use Images/FSIdIn.JPG>
+Package pdftex.def Info: Images/FSIdIn.JPG  used on input line 1306.
+(pdftex.def)             Requested size: 352.31625pt x 151.5114pt.
+File: Images/FSIdTL.JPG Graphic file (type jpg)
+<use Images/FSIdTL.JPG>
+Package pdftex.def Info: Images/FSIdTL.JPG  used on input line 1313.
+(pdftex.def)             Requested size: 352.31625pt x 152.14159pt.
+<Images/HybridStates.JPG, id=935, 1103.322pt x 476.982pt>
+File: Images/HybridStates.JPG Graphic file (type jpg)
+<use Images/HybridStates.JPG>
+Package pdftex.def Info: Images/HybridStates.JPG  used on input line 1326.
+(pdftex.def)             Requested size: 352.31625pt x 152.30983pt.
+ [44]
+<Images/HybridTimeLife.JPG, id=940, 1100.913pt x 460.72125pt>
+File: Images/HybridTimeLife.JPG Graphic file (type jpg)
+<use Images/HybridTimeLife.JPG>
+Package pdftex.def Info: Images/HybridTimeLife.JPG  used on input line 1333.
+(pdftex.def)             Requested size: 352.31625pt x 147.44084pt.
+<Images/FSHIn.JPG, id=941, 1102.71976pt x 473.97075pt>
+File: Images/FSHIn.JPG Graphic file (type jpg)
+<use Images/FSHIn.JPG>
+Package pdftex.def Info: Images/FSHIn.JPG  used on input line 1342.
+(pdftex.def)             Requested size: 352.31625pt x 151.43507pt.
+ [45 <./Images/HybridStates.JPG> <./Images/HybridTimeLife.JPG>]
+<Images/FSHLT.JPG, id=946, 1105.731pt x 473.97075pt>
+File: Images/FSHLT.JPG Graphic file (type jpg)
+<use Images/FSHLT.JPG>
+Package pdftex.def Info: Images/FSHLT.JPG  used on input line 1349.
+(pdftex.def)             Requested size: 352.31625pt x 151.0156pt.
+ [46 <./Images/FSHIn.JPG> <./Images/FSHLT.JPG>]
+<Images/ComparisonStates.JPG, id=953, 1073.2095pt x 464.33475pt>
+File: Images/ComparisonStates.JPG Graphic file (type jpg)
+<use Images/ComparisonStates.JPG>
+Package pdftex.def Info: Images/ComparisonStates.JPG  used on input line 1372.
+(pdftex.def)             Requested size: 352.31625pt x 152.43031pt.
+<Images/ComparisonTL.JPG, id=954, 1088.868pt x 449.88075pt>
+File: Images/ComparisonTL.JPG Graphic file (type jpg)
+<use Images/ComparisonTL.JPG>
+Package pdftex.def Info: Images/ComparisonTL.JPG  used on input line 1379.
+(pdftex.def)             Requested size: 352.31625pt x 145.56424pt.
+ [47 <./Images/ComparisonStates.JPG>]
+<Images/ComparisonRates.JPG, id=960, 1075.01625pt x 450.483pt>
+File: Images/ComparisonRates.JPG Graphic file (type jpg)
+<use Images/ComparisonRates.JPG>
+Package pdftex.def Info: Images/ComparisonRates.JPG  used on input line 1388.
+(pdftex.def)             Requested size: 352.31625pt x 147.63564pt.
+
+
+LaTeX Warning: Command \o invalid in math mode on input line 1401.
+
+[48 <./Images/ComparisonTL.JPG> <./Images/ComparisonRates.JPG>] [49] [50]
+<Images/Main27.JPG, id=978, 1105.12875pt x 477.58424pt>
+File: Images/Main27.JPG Graphic file (type jpg)
+<use Images/Main27.JPG>
+Package pdftex.def Info: Images/Main27.JPG  used on input line 1442.
+(pdftex.def)             Requested size: 352.31625pt x 152.25438pt.
+<Images/Main25.JPG, id=979, 1103.92426pt x 476.982pt>
+File: Images/Main25.JPG Graphic file (type jpg)
+<use Images/Main25.JPG>
+Package pdftex.def Info: Images/Main25.JPG  used on input line 1452.
+(pdftex.def)             Requested size: 352.31625pt x 152.22977pt.
+
+[51 <./Images/Main27.JPG>] [52 <./Images/Main25.JPG>]
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(Codes/DataPreparatorA.m
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+1.
+
+(C:\Users\jair2\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+
+[53]
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 41.
+ [54] [55] [56]) [57]
+<Images/Photos/ArchWP.JPG, id=1147, 301.8778pt x 392.96812pt>
+File: Images/Photos/ArchWP.JPG Graphic file (type jpg)
+<use Images/Photos/ArchWP.JPG>
+Package pdftex.def Info: Images/Photos/ArchWP.JPG  used on input line 1492.
+(pdftex.def)             Requested size: 187.89914pt x 244.59709pt.
+<Images/Photos/LearnParametersWP.JPG, id=1148, 302.63063pt x 395.22656pt>
+File: Images/Photos/LearnParametersWP.JPG Graphic file (type jpg)
+<use Images/Photos/LearnParametersWP.JPG>
+Package pdftex.def Info: Images/Photos/LearnParametersWP.JPG  used on input lin
+e 1497.
+(pdftex.def)             Requested size: 211.38832pt x 276.06569pt.
+<Images/Photos/LearnProcessWP.JPG, id=1149, 304.13625pt x 396.7322pt>
+File: Images/Photos/LearnProcessWP.JPG Graphic file (type jpg)
+<use Images/Photos/LearnProcessWP.JPG>
+Package pdftex.def Info: Images/Photos/LearnProcessWP.JPG  used on input line 1
+502.
+(pdftex.def)             Requested size: 211.38832pt x 275.75531pt.
+ [58 <./Images/Photos/ArchWP.JPG> <./Images/Photos/LearnParametersWP.JPG>]
+<Images/Photos/StopConditionsWP.JPG, id=1156, 305.64188pt x 395.97937pt>
+File: Images/Photos/StopConditionsWP.JPG Graphic file (type jpg)
+<use Images/Photos/StopConditionsWP.JPG>
+Package pdftex.def Info: Images/Photos/StopConditionsWP.JPG  used on input line
+ 1507.
+(pdftex.def)             Requested size: 211.38832pt x 273.86653pt.
+<Images/Photos/WeightInitializationWP.JPG, id=1157, 306.39468pt x 395.97937pt>
+File: Images/Photos/WeightInitializationWP.JPG Graphic file (type jpg)
+<use Images/Photos/WeightInitializationWP.JPG>
+Package pdftex.def Info: Images/Photos/WeightInitializationWP.JPG  used on inpu
+t line 1512.
+(pdftex.def)             Requested size: 211.38832pt x 273.19585pt.
+ [59 <./Images/Photos/LearnProcessWP.JPG> <./Images/Photos/StopConditionsWP.JPG
+>]
+<Images/Photos/OutputsWP.JPG, id=1164, 301.125pt x 394.47375pt>
+File: Images/Photos/OutputsWP.JPG Graphic file (type jpg)
+<use Images/Photos/OutputsWP.JPG>
+Package pdftex.def Info: Images/Photos/OutputsWP.JPG  used on input line 1517.
+(pdftex.def)             Requested size: 211.38832pt x 276.93028pt.
+<Images/Photos/ArchOP.JPG, id=1165, 303.38344pt x 395.22656pt>
+File: Images/Photos/ArchOP.JPG Graphic file (type jpg)
+<use Images/Photos/ArchOP.JPG>
+Package pdftex.def Info: Images/Photos/ArchOP.JPG  used on input line 1525.
+(pdftex.def)             Requested size: 187.89914pt x 244.78464pt.
+ [60 <./Images/Photos/WeightInitializationWP.JPG> <./Images/Photos/OutputsWP.JP
+G>]
+<Images/Photos/LearnParametersOP.JPG, id=1173, 301.8778pt x 395.22656pt>
+File: Images/Photos/LearnParametersOP.JPG Graphic file (type jpg)
+<use Images/Photos/LearnParametersOP.JPG>
+Package pdftex.def Info: Images/Photos/LearnParametersOP.JPG  used on input lin
+e 1530.
+(pdftex.def)             Requested size: 211.38832pt x 276.75319pt.
+<Images/Photos/LearnProcessOP.JPG, id=1174, 304.88907pt x 395.22656pt>
+File: Images/Photos/LearnProcessOP.JPG Graphic file (type jpg)
+<use Images/Photos/LearnProcessOP.JPG>
+Package pdftex.def Info: Images/Photos/LearnProcessOP.JPG  used on input line 1
+535.
+(pdftex.def)             Requested size: 211.38832pt x 274.03336pt.
+ [61 <./Images/Photos/ArchOP.JPG> <./Images/Photos/LearnParametersOP.JPG>]
+<Images/Photos/StopConditionsOP.JPG, id=1181, 302.63063pt x 394.47375pt>
+File: Images/Photos/StopConditionsOP.JPG Graphic file (type jpg)
+<use Images/Photos/StopConditionsOP.JPG>
+Package pdftex.def Info: Images/Photos/StopConditionsOP.JPG  used on input line
+ 1540.
+(pdftex.def)             Requested size: 211.38832pt x 275.53986pt.
+<Images/Photos/WeightInitializationOP.JPG, id=1182, 301.8778pt x 394.47375pt>
+File: Images/Photos/WeightInitializationOP.JPG Graphic file (type jpg)
+<use Images/Photos/WeightInitializationOP.JPG>
+Package pdftex.def Info: Images/Photos/WeightInitializationOP.JPG  used on inpu
+t line 1545.
+(pdftex.def)             Requested size: 211.38832pt x 276.22604pt.
+ [62 <./Images/Photos/LearnProcessOP.JPG> <./Images/Photos/StopConditionsOP.JPG
+>]
+<Images/Photos/OutputsOP.JPG, id=1189, 307.1475pt x 395.97937pt>
+File: Images/Photos/OutputsOP.JPG Graphic file (type jpg)
+<use Images/Photos/OutputsOP.JPG>
+Package pdftex.def Info: Images/Photos/OutputsOP.JPG  used on input line 1550.
+(pdftex.def)             Requested size: 211.38832pt x 272.52518pt.
+ [63 <./Images/Photos/WeightInitializationOP.JPG> <./Images/Photos/OutputsOP.JP
+G>] [64] [65] [66] (FinalPaper.bbl) [67] (FinalPaper.aux)
+Package rerunfilecheck Info: File `FinalPaper.out' has not changed.
+(rerunfilecheck)             Checksum: D2DEDBAF54499F73C12CA798C3C141DC;11121.
+ ) 
+Here is how much of TeX's memory you used:
+ 18249 strings out of 478681
+ 305209 string characters out of 2846534
+ 914839 words of memory out of 3000000
+ 35634 multiletter control sequences out of 15000+600000
+ 409869 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 95i,10n,92p,1136b,3043s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\jair2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcti
+1000.pk> <C:\Users\jair2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcrm1000.pk><C:/Users/jair2/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb><C:/Users/jair2/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jair2/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/jair2/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jair2/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/jair2/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/jai
+r2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:
+/Users/jair2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><C:/Users/jair2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr12.pfb><C:/Users/jair2/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr17.pfb><C:/Users/jair2/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmr5.pfb><C:/Users/jair2/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jair2/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jair2/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/jair2/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/jair2/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on FinalPaper.pdf (74 pages, 8832371 bytes).
+PDF statistics:
+ 1373 PDF objects out of 1440 (max. 8388607)
+ 386 named destinations out of 1000 (max. 500000)
+ 918 words of extra memory for PDF output out of 10000 (max. 10000000)
+

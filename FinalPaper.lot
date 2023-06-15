@@ -1,0 +1,11 @@
+\babel@toc {english}{}\relax 
+\contentsline {table}{\numberline {1}{\ignorespaces Training data set\relax }}{20}{table.1}%
+\contentsline {table}{\numberline {2}{\ignorespaces Test data set\relax }}{21}{table.2}%
+\contentsline {table}{\numberline {3}{\ignorespaces Learning parameters\relax }}{22}{table.3}%
+\contentsline {table}{\numberline {4}{\ignorespaces Weights initialization\relax }}{22}{table.4}%
+\contentsline {table}{\numberline {5}{\ignorespaces Stop conditions\relax }}{23}{table.5}%
+\contentsline {table}{\numberline {6}{\ignorespaces Architecture with pruning\relax }}{23}{table.6}%
+\contentsline {table}{\numberline {7}{\ignorespaces Learning process with pruning\relax }}{24}{table.7}%
+\contentsline {table}{\numberline {8}{\ignorespaces Architecture after pruning\relax }}{27}{table.8}%
+\contentsline {table}{\numberline {9}{\ignorespaces Learning process without pruning\relax }}{27}{table.9}%
+\contentsline {table}{\numberline {10}{\ignorespaces Initial set of data\relax }}{66}{table.10}%

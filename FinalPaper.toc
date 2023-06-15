@@ -1,0 +1,75 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Project Aim}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Data pre-processing}{1}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Data preparation}{1}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}MLP design}{2}{subsubsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.4}Mathematical models}{2}{subsubsection.1.1.4}%
+\contentsline {subsubsection}{\numberline {1.1.5}Simulation models}{2}{subsubsection.1.1.5}%
+\contentsline {subsubsection}{\numberline {1.1.6}Simulation results}{2}{subsubsection.1.1.6}%
+\contentsline {subsubsection}{\numberline {1.1.7}Evaluation}{2}{subsubsection.1.1.7}%
+\contentsline {subsection}{\numberline {1.2}Background}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Theory and Methodology}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}System}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Model}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Linear or non-linear:}{4}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Static or dynamic:}{4}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Externally influenced or autonomous:}{4}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Location dependent or independent:}{4}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Deterministic or stochastic:}{5}{subsubsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.6}Time-invariant or time-variant:}{5}{subsubsection.2.2.6}%
+\contentsline {subsubsection}{\numberline {2.2.7}Time continuous or discrete:}{5}{subsubsection.2.2.7}%
+\contentsline {subsubsection}{\numberline {2.2.8}Model of behavior}{5}{subsubsection.2.2.8}%
+\contentsline {subsubsection}{\numberline {2.2.9}System model}{6}{subsubsection.2.2.9}%
+\contentsline {subsection}{\numberline {2.3}Simulation}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Soft Computing}{6}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Artificial Neural Network (ANN)}{7}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Multi-Layer Perceptron (MLP)}{7}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Multi-Layer Perceptron (MLP) Design}{9}{subsubsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.5}Markov Model}{9}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Failure rate}{10}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Redundancy}{11}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Markov model: Evaluation of reliability}{13}{subsubsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.6}Methodology}{13}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Data pre-processing}{14}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Atypical values}{14}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Sensor defect}{15}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Redundant data}{16}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Measuring errors}{16}{subsubsection.3.1.3}%
+\contentsline {section}{\numberline {4}Data preparation}{18}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Considerations}{18}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Data}{18}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Training data}{18}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Test data}{20}{subsubsection.4.2.2}%
+\contentsline {section}{\numberline {5}MLP design}{22}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Parameters}{22}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Before pruning}{23}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}After pruning}{26}{subsubsection.5.1.2}%
+\contentsline {section}{\numberline {6}Mathematical models}{31}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Calculations}{31}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Expected results}{34}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Simulation models}{38}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Simulation parameters}{38}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Connections}{39}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Comparison}{40}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}Classical Markov model}{40}{subsubsection.7.3.1}%
+\contentsline {subsubsection}{\numberline {7.3.2}Hybrid Markov model}{41}{subsubsection.7.3.2}%
+\contentsline {section}{\numberline {8}Simulation results}{42}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Raw results}{42}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Comparison}{43}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}Classical Markov model}{43}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}Hybrid Markov model}{45}{subsubsection.8.2.2}%
+\contentsline {section}{\numberline {9}Evaluation}{47}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Comparison}{47}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}Dynamics: Classical Markov model}{48}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}Dynamics: Hybrid Markov model}{49}{subsubsection.9.1.2}%
+\contentsline {section}{\numberline {10}Conclusion}{51}{section.10}%
+\contentsline {section}{Appendices}{53}{section*.58}%
+\contentsline {section}{\numberline {A}Appendix of codes}{53}{appendix.a.A}%
+\contentsline {subsection}{\numberline {A.1}Matlab code for data preparation and pre-processing}{53}{subsection.a.A.1}%
+\contentsline {section}{\numberline {B}Appendix of MLP design}{58}{appendix.a.B}%
+\contentsline {subsection}{\numberline {B.1}Before pruning}{58}{subsection.a.B.1}%
+\contentsline {subsection}{\numberline {B.2}After pruning}{61}{subsection.a.B.2}%
+\contentsline {section}{\numberline {C}Appendix of tables}{64}{appendix.a.C}%
+\contentsline {subsection}{\numberline {C.1}Initial set of data}{64}{subsection.a.C.1}%
+\contentsline {section}{References}{67}{table.10}%
