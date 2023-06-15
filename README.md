@@ -35,8 +35,6 @@ For any further queries or discussion related to this project, please feel free 
 
 ## :page_with_curl: License
 
-## 📃 License
-
 This project is licensed under the terms of the MIT License. While it is free to use, modify, and distribute, it was primarily intended for educational, academic, and university use. Any use of this code should provide appropriate credit and citation.
 
 
