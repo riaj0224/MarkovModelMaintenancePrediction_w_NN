@@ -41,6 +41,7 @@ You'll need a LaTeX distribution (like TexLive, MikTex, or MacTex) and a LaTeX e
 
 This project has the following file structure:
 
+```bash
 ├── bibliography.bib
 ├── FinalPaper.aux
 ├── FinalPaper.bbl
@@ -65,6 +66,7 @@ This project has the following file structure:
 │ └── Presentation slides (.PNG)
 └── Photos
 └── Various images (.JPG, .jpg)
+```
 
 - **Codes**: This directory contains the Matlab code files and data for the project.
 - **Images**: This directory contains images used in the project. It includes two subdirectories, "Fotos" and "Photos", which contain presentation slides and various other images respectively.
