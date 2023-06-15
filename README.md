@@ -1,6 +1,6 @@
 # Predictive Maintenance: Hybrid Markov Model Evaluation 
 
-This repository presents a project which explores the fascinating realm of Predictive Maintenance, an area becoming increasingly critical as industrial machinery and systems advance in complexity. The central objective of this project is to assess the reliability of a hybrid Markov model vs a traditional model, thereby generating valuable insights into optimal strategies for industrial maintenance scheduling.
+This repository presents a project which explores the fascinating realm of Predictive Maintenance, an area becoming increasingly critical as industrial machinery and systems advance in complexity. The central objective of this project is to assess the reliability of a hybrid Markov model (a Markov model generated from a  Multi-Layer Perceptron (MLP)) vs a traditional model, thereby generating valuable insights into optimal strategies for industrial maintenance scheduling.
 
 ## :hammer_and_wrench: What's Inside?
 
